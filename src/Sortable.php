@@ -50,7 +50,6 @@ class Sortable extends Base {
 			'kirki-control-sortable',
 			"$url/assets/scripts/control.js",
 			[
-				'kirki-script',
 				'jquery',
 				'customize-base',
 			],
