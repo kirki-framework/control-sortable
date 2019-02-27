@@ -14,3 +14,5 @@ add_action(
         class_alias( 'Kirki\Control\Sortable', 'Kirki_Control_Sortable' );
     }
 );
+
+class_alias( 'Kirki\Field\Sortable', 'Kirki_Field_Sortable' );
